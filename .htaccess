@@ -1,0 +1,6 @@
+
+RewriteEngine on
+RewriteCond %{HTTP_HOST} ^crossculturecook\.com$ [OR]
+RewriteCond %{HTTP_HOST} ^www\.crossculturecook\.com$
+RewriteRule ^/?$ "http\:\/\/miguelesquirol\.com\/crossculture" [R=301,L]
+

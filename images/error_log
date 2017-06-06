@@ -1,0 +1,16 @@
+[31-Dec-2015 04:37:32 UTC] PHP Warning:  include(menu.php): failed to open stream: No such file or directory in /home/miguelesquirol/public_html/images/index.php on line 61
+[31-Dec-2015 04:37:32 UTC] PHP Warning:  include(): Failed opening 'menu.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/miguelesquirol/public_html/images/index.php on line 61
+[31-Dec-2015 04:37:32 UTC] PHP Warning:  include(home.php): failed to open stream: No such file or directory in /home/miguelesquirol/public_html/images/index.php on line 62
+[31-Dec-2015 04:37:32 UTC] PHP Warning:  include(): Failed opening 'home.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/miguelesquirol/public_html/images/index.php on line 62
+[31-Dec-2015 04:37:32 UTC] PHP Warning:  include(about.php): failed to open stream: No such file or directory in /home/miguelesquirol/public_html/images/index.php on line 63
+[31-Dec-2015 04:37:32 UTC] PHP Warning:  include(): Failed opening 'about.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/miguelesquirol/public_html/images/index.php on line 63
+[31-Dec-2015 04:37:32 UTC] PHP Warning:  include(midbar.php): failed to open stream: No such file or directory in /home/miguelesquirol/public_html/images/index.php on line 64
+[31-Dec-2015 04:37:32 UTC] PHP Warning:  include(): Failed opening 'midbar.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/miguelesquirol/public_html/images/index.php on line 64
+[31-Dec-2015 04:37:32 UTC] PHP Warning:  include(photo.php): failed to open stream: No such file or directory in /home/miguelesquirol/public_html/images/index.php on line 66
+[31-Dec-2015 04:37:32 UTC] PHP Warning:  include(): Failed opening 'photo.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/miguelesquirol/public_html/images/index.php on line 66
+[31-Dec-2015 04:37:32 UTC] PHP Warning:  include(writing.php): failed to open stream: No such file or directory in /home/miguelesquirol/public_html/images/index.php on line 67
+[31-Dec-2015 04:37:32 UTC] PHP Warning:  include(): Failed opening 'writing.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/miguelesquirol/public_html/images/index.php on line 67
+[31-Dec-2015 04:37:32 UTC] PHP Warning:  include(footer.php): failed to open stream: No such file or directory in /home/miguelesquirol/public_html/images/index.php on line 78
+[31-Dec-2015 04:37:32 UTC] PHP Warning:  include(): Failed opening 'footer.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/miguelesquirol/public_html/images/index.php on line 78
+[31-Dec-2015 04:37:32 UTC] PHP Warning:  include(scripts.php): failed to open stream: No such file or directory in /home/miguelesquirol/public_html/images/index.php on line 81
+[31-Dec-2015 04:37:32 UTC] PHP Warning:  include(): Failed opening 'scripts.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/miguelesquirol/public_html/images/index.php on line 81
